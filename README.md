@@ -1,2 +1,8 @@
 # INFORME-TAREA-1
 Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Keily Vallejo
+1. OBJETIVOS
+2. MARCO TEÓRICO 
+3. EXPLICACION Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+4. VIDEO 
+5. CONCLUCIONES 
+6. BIBLIOGRAFÍA 
