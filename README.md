@@ -2,12 +2,13 @@
 Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Keily Vallejo
 
 1. OBJETIVOS
-OBJETIVOS GENERALES 
+
+**OBJETIVOS GENERALES **
 -Estudiar y analizar componentes de un circuito eléctrico, su comportamiento en base de leyes, principios, conceptos y métodos de análisis mejor conocidas como teoría del circuito, esta teoría nos ayudara a lo largo de la tarea calculando valores para voltaje, corriente y potencia, incluyendo su respectiva unidad de medida. 
 
 -Comprender la estructura de un circuito eléctrico básico  el cual se debe componer por una fuente de energía eléctrica que permitirá el funcionamiento del circuito eléctrico, un interruptor el cual realiza la función de abrir o cerrar el paso de energía desde la fuente, una carga eléctrica y cables de interconexión que son los conectores entre los diferentes aparatos del circuito.
 
-OBJETTIVOS ESPECÍFICOS 
+**OBJETTIVOS ESPECÍFICOS**
 
 Explicar y describir  la fuerza fundamental coulumb 
 Analizar la corriente como un movimiento de carga
@@ -15,10 +16,18 @@ Reconocer los diferentes materiales y sus características que hacen que estos s
 Resolver los ejercicios al final de cada capitulo estudiado.
 
 2. MARCO TEÓRICO
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-4. VIDEO
-5. CONCLUSIONES
-6. BIBLIOGRAFÍA
+
+
+4. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+
+6. VIDEO
+
+
+8. CONCLUSIONES
+
+
+10. BIBLIOGRAFÍA
  Es.scribd.com. 2021. [online] Available at: <https://es.scribd.com/doc/87133776/Caracteristicas-Del-Sistema-Internacional-y-El-Sistema-Ingles> [Accessed 1 June 2021]
  2021. [online] 
  Available at: <https://www.colegiostmf.cl/wp-content/uploads/2020/05/1%C2%B0-Medio-Matem%C3%A1tica-Guia-6-1.pdf> [Accessed 1 June 2021].
