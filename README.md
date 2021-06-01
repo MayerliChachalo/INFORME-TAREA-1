@@ -3,7 +3,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Keily Vallejo
 
 1. OBJETIVOS
 
-**OBJETIVOS GENERALES **
+**OBJETIVOS GENERALES**
 
 -Estudiar y analizar componentes de un circuito eléctrico, su comportamiento en base de leyes, principios, conceptos y métodos de análisis mejor conocidas como teoría del circuito, esta teoría nos ayudara a lo largo de la tarea calculando valores para voltaje, corriente y potencia, incluyendo su respectiva unidad de medida. 
 
