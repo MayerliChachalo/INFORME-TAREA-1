@@ -22,17 +22,19 @@ Resolver los ejercicios al final de cada capitulo estudiado.
 2. MARCO TEÓRICO
 
 
-4. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 
-6. VIDEO
+4. VIDEO
 
 
-8. CONCLUSIONES
+5. CONCLUSIONES
 
 
-10. BIBLIOGRAFÍA
- Es.scribd.com. 2021. [online] Available at: <https://es.scribd.com/doc/87133776/Caracteristicas-Del-Sistema-Internacional-y-El-Sistema-Ingles> [Accessed 1 June 2021]
+6. BIBLIOGRAFÍA
+ 
+ 
+Es.scribd.com. 2021. [online] Available at: <https://es.scribd.com/doc/87133776/Caracteristicas-Del-Sistema-Internacional-y-El-Sistema-Ingles> [Accessed 1 June 2021]
  2021. [online] 
  
  Available at: <https://www.colegiostmf.cl/wp-content/uploads/2020/05/1%C2%B0-Medio-Matem%C3%A1tica-Guia-6-1.pdf> [Accessed 1 June 2021].
