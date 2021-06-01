@@ -4,6 +4,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Keily Vallejo
 1. OBJETIVOS
 
 **OBJETIVOS GENERALES **
+
 -Estudiar y analizar componentes de un circuito eléctrico, su comportamiento en base de leyes, principios, conceptos y métodos de análisis mejor conocidas como teoría del circuito, esta teoría nos ayudara a lo largo de la tarea calculando valores para voltaje, corriente y potencia, incluyendo su respectiva unidad de medida. 
 
 -Comprender la estructura de un circuito eléctrico básico  el cual se debe componer por una fuente de energía eléctrica que permitirá el funcionamiento del circuito eléctrico, un interruptor el cual realiza la función de abrir o cerrar el paso de energía desde la fuente, una carga eléctrica y cables de interconexión que son los conectores entre los diferentes aparatos del circuito.
