@@ -205,7 +205,7 @@ Resolver los ejercicios al final de cada capitulo estudiado.
    
    45.- Se compra un radiador eléctrico de 1500 W para calentar una habitación. ¿Cuántos kW es esta cantidad?
    
-   <img src="Ejer_impares_cap1/9.jpg" width=400 >
+         Un kilo ->k , equivale 10^3 . 1500 W = 1.5 kW. 
    
    47.- Para la figura 1-12, I1 + I2 - I3 +I4 = 0. Si I1 = 12 A, I2 = 0.150 kA e I4  250 X 10^ -1 A, ¿cuánto vale I3?
    
