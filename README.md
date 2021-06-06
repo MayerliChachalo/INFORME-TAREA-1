@@ -228,6 +228,7 @@ Resolver los ejercicios al final de cada capitulo estudiado.
 
 
 5. CONCLUSIONES
+ - Conocer el sistema SI de medidad internaciones permite hacer conversiones entre varios tipode de unidades. Hacer uso de la notación de potencia de 10 permite expresar cantidades de manera sinmplificada; convinar el empleo de potencia de 10 y notación de ingeniería ayuda a representar unidades eléctricas como microamperes, kilovolios, miliwatts, entre otra. 
 
 
 6. BIBLIOGRAFÍA
