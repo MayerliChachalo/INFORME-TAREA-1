@@ -231,7 +231,7 @@ Resolver los ejercicios al final de cada capitulo estudiado.
     
     b. se triplica la distancia entre ellas?
     
-    <img src="Capitulo%202/Captura%202.PNG" width=400 >
+   <img src="Capitulo%202/Captura%202.PNG" width=400 >
    
     
 
