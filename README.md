@@ -261,7 +261,7 @@ Resolver los ejercicios al final de cada capitulo estudiado.
   
   14) Una placa de metal eléctricamente neutra adquiere una carga negativa de 47 uC. ¿Cuántos electrones se le agregaron?
 
-  <img src="Capitulo%202/Captura5.PNG" width=300> 
+  <img src="Capitulo%202/Captura5.PNG" width=400> 
   
   16) Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
  
@@ -281,7 +281,7 @@ Resolver los ejercicios al final de cada capitulo estudiado.
  
  24) Para el circuito de la figura 2-1, si 27 C pasan a través de la lámpara en 9 segundos, ¿cuál es la corriente en amperes
 
- <img src="Capitulo%202/Captura7.PNG" width=300> 
+ <img src="Capitulo%202/Captura7.PNG" width=500> 
 
 26) Si la corriente I = 4 A en la figura 2-1, ¿cuántos coulomb pasan a través de la lámpara en 7 ms?
 
@@ -309,7 +309,7 @@ Resolver los ejercicios al final de cada capitulo estudiado.
 
  32) ¿Cuánto tiempo le toma a 312 x10^19 electrones pasar a través del circuito de la figura 2-32 si la lectura del amperímetro es de 8 A?
 
- <img src="Capitulo%202/Captura9.PNG" width=300> 
+ <img src="Capitulo%202/Captura9.PNG" width=500> 
  
  34) ¿Qué se entiende por cd?, ¿y por ca?
  
