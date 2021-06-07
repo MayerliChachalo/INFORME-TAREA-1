@@ -273,7 +273,7 @@ Resolver los ejercicios al final de cada capitulo estudiado.
  
  20)¿Cuánta energía se requiere para mover 20 mC de carga a través de la lámpara de la figura 2-23
 
- <img src="Capitulo%202/Captura6.PNG" width=550> 
+ <img src="Capitulo%202/Captura6.PNG" width=500> 
  
  22) Si el voltaje entre dos puntos es de 100 V, ¿cuánta energía se requiere para mover un electrón entre los dos puntos?
 
