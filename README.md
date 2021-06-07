@@ -225,11 +225,17 @@ Resolver los ejercicios al final de cada capitulo estudiado.
    
    EJERCICIOS PARES CAPITULO 2.
    
-   2)Dos cargas están separadas por cierta distancia, como en la figura 2-31, ¿cómo se ve afectada la fuerza entre ellas.
+   2)Dos cargas están separadas por cierta distancia, como en la figura 2-31, ¿cómo se ve afectada la fuerza entre ellas si.
+   
     a. se duplica la magnitud de ambas cargas? 
+    
     b. se triplica la distancia entre ellas?
+    
+    <img src="Capitulo%202/Captura%202.PNG" width=400 >
+   
+    
 
-
+Capitulo%202/Captura%202.PNG
 
 4. VIDEO
 
