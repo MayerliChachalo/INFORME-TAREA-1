@@ -222,6 +222,13 @@ Resolver los ejercicios al final de cada capitulo estudiado.
    53.- En el capítulo 4 aprenderá que la resistencia está dada por la razón entre el voltaje y la corriente, es decir, R= V*I ohms.
    
    <img src="Ejer_impares_cap1/53.jpg" width=400 >
+   
+   EJERCICIOS PARES CAPITULO 2.
+   
+   2)Dos cargas están separadas por cierta distancia, como en la figura 2-31, ¿cómo se ve afectada la fuerza entre ellas.
+    a. se duplica la magnitud de ambas cargas? 
+    b. se triplica la distancia entre ellas?
+
 
 
 4. VIDEO
