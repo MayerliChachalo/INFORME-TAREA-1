@@ -327,15 +327,15 @@ Resolver los ejercicios al final de cada capitulo estudiado.
   
   40) Se espera que la batería de la figura 2-15 dure 17 h con un consumo de corriente de 1.5 A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con un consumo de corriente de 0,8 A?
   
-  <img src="Capitulo%202/Captura12.PNG" width=600> 
+  <img src="Capitulo%202/Captura12.PNG" width=500> 
 
 42) El voltímetro digital de la figura 2-34 tiene la característica de auto polaridad. Para cada caso, determine su lectura.
 
-  <img src="Capitulo%202/Captura13.PNG" width=600> 
+  <img src="Capitulo%202/Captura13.PNG" width=500> 
 
 44) ¿Cuál es el error en la afirmación de que el voltaje a través de la lámpara de la figura 2-24 es 70,3 V?
 
-  <img src="Capitulo%202/Captura14.PNG" width=600> 
+  <img src="Capitulo%202/Captura14.PNG" width=700> 
   
   
 46. VIDEO
