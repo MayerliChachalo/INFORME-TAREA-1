@@ -231,7 +231,7 @@ Resolver los ejercicios al final de cada capitulo estudiado.
     
     b. se triplica la distancia entre ellas?
     
-   <img src="Capitulo%202/Captura%202.PNG" width=700>
+   <img src="Capitulo%202/Captura%202.PNG" width=500>
    
    4) Cierto material tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor
   
