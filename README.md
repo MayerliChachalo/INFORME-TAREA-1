@@ -231,57 +231,57 @@ Resolver los ejercicios al final de cada capitulo estudiado.
     
     b. se triplica la distancia entre ellas?
     
-   <img src="Capitulo%202/Captura%202.PNG" width=500>
+   <img src="Capitulo%202/Captura%202.PNG" width=600>
    
    4) Cierto material tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor
   
-   R= Es mejor conductor el material que cuenta con 4 electrones, entre mayor sean los electrones mayor conductividad presenta.
+    R= Es mejor conductor el material que cuenta con 4 electrones, entre mayor sean los electrones mayor conductividad presenta.
    
    6) a. Aunque el oro es muy caro, en ocasiones se usa en electrónica como recubrimiento en contactos. ¿Por qué? 
   
-   R= El oro, debido a que se oxida menos que otros materiales, se emplea en dispositivos especializados, por ejemplo, en conectores eléctricos críticos en equipo electrónico ya    que hace una conexión más confiable que otros materiales.
+    R= El oro, debido a que se oxida menos que otros materiales, se emplea en dispositivos especializados, por ejemplo, en conectores eléctricos críticos en equipo electrónico  ya    que hace una conexión más confiable que otros materiales.
    
    b. ¿Por qué algunas veces se usa el aluminio cuando su conductividad es sólo 60% de la del cobre?
    
-   R=El aluminio, aunque sólo tiene un 60% de la capacidad de conducción del cobre, también se usa, sobre todo en aplicaciones en las que el peso ligero es importante, como en      líneas de transmisión de potencia elevadas.
+    R=El aluminio, aunque sólo tiene un 60% de la capacidad de conducción del cobre, también se usa, sobre todo en aplicaciones en las que el peso ligero es importante, como en      líneas de transmisión de potencia elevadas.
    
    8) ¿Qué significado tiene decir que un cuerpo está “cargado”?
   
-  R= Un cuerpo esta cargado cuando ha perdido o ganado electrones, de manera que algunos átomos ya no tienen el mismo número de electrones que de protones y por tanto se    
-  denominan iones.
+    R= Un cuerpo esta cargado cuando ha perdido o ganado electrones, de manera que algunos átomos ya no tienen el mismo número de electrones que de protones y por tanto se    
+    denominan iones.
   
   10) Si se pudiera colocar una carga de 1 C en cada uno de dos cuerpos que están separados 25 cm de centro a centro, ¿cuál sería la fuerza entre ellas en newtons?, ¿y en  
   toneladas?
   
-  <img src="Capitulo%202/Captura3.PNG" width=700> 
+  <img src="Capitulo%202/Captura3.PNG" width=400> 
   
   12) ¿Cuántos electrones representa una carga de 1.63 uC?
 
-  R= 1C=6.24x10^18 e ; 6.24x10^18 x10^(-6) x1.63=1.01712x10^13
+    R= 1C=6.24x10^18 e ; 6.24x10^18 x10^(-6) x1.63=1.01712x10^13
   
   14) Una placa de metal eléctricamente neutra adquiere una carga negativa de 47 uC. ¿Cuántos electrones se le agregaron?
 
-  <img src="Capitulo%202/Captura5.PNG" width=700> 
+  <img src="Capitulo%202/Captura5.PNG" width=600> 
   
   16) Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
  
-R= Se le llama electricidad estática, se trata de la descarga repentina de la electricidad que acumulamos las personas o los objetos. Toda la materia esta formada por moléculas  cargadas eléctricamente que tienden a estar en equilibrio entre positivo y negativo, pero a veces esta estabilidad se rompe al ponerse en contacto dos cuerpos uno con mas   carga que el otro.
+    R= Se le llama electricidad estática, se trata de la descarga repentina de la electricidad que acumulamos las personas o los objetos. Toda la materia esta formada por moléculas  cargadas eléctricamente que tienden a estar en equilibrio entre positivo y negativo, pero a veces esta estabilidad se rompe al ponerse en contacto dos cuerpos uno con mas   carga que el otro.
 
  18) Si se requiere de 600 J de energía para mover 9.36 x 10^19 electrones de un punto a otro, ¿cuál es la diferencia de potencial entre los dos puntos?
  
- R=  v=W/Q ;  v=600J/14.976C = 40.06 V
+    R=  v=W/Q ;  v=600J/14.976C = 40.06 V
  
  20)¿Cuánta energía se requiere para mover 20 mC de carga a través de la lámpara de la figura 2-23
 
- <img src="Capitulo%202/Captura6.PNG" width=700> 
+ <img src="Capitulo%202/Captura6.PNG" width=600> 
  
  22) Si el voltaje entre dos puntos es de 100 V, ¿cuánta energía se requiere para mover un electrón entre los dos puntos?
 
- R= 200 de energía 
+    R= 200 de energía 
  
  24) Para el circuito de la figura 2-1, si 27 C pasan a través de la lámpara en 9 segundos, ¿cuál es la corriente en amperes
 
- <img src="Capitulo%202/Captura7.PNG" width=700> 
+ <img src="Capitulo%202/Captura7.PNG" width=600> 
 
 26) Si la corriente I = 4 A en la figura 2-1, ¿cuántos coulomb pasan a través de la lámpara en 7 ms?
 
@@ -289,53 +289,53 @@ R= Se le llama electricidad estática, se trata de la descarga repentina de la e
  
  28) ¿Cuánto tiempo le toma a una carga de 100 uC pasar por un punto si la corriente es de 25 mA?
 
- R= t=0.0001C/0.025A=4ms
+    R= t=0.0001C/0.025A=4ms
  
  30) La carga que pasa a través de un alambre está dada por q = 10t + 4, donde q está en coulomb y t en segundos
 
-a. ¿Cuánta carga ha pasado en t =5 s?
+    a. ¿Cuánta carga ha pasado en t =5 s?
 
-Qa=10(5)+4=54C
+    Qa=10(5)+4=54C
 
- b. ¿Cuánta carga ha pasado en t =8 s? 
+    b. ¿Cuánta carga ha pasado en t =8 s? 
 
-Qb=10(8)+4=84C
+    Qb=10(8)+4=84C
 
-c. ¿Cuál es la corriente en amperes?
+    c. ¿Cuál es la corriente en amperes?
 
-la=54C/5s=10.8A
+    la=54C/5s=10.8A
 
-lb=84C/8s=10.5A
+    lb=84C/8s=10.5A
 
  32) ¿Cuánto tiempo le toma a 312 x10^19 electrones pasar a través del circuito de la figura 2-32 si la lectura del amperímetro es de 8 A?
 
- <img src="Capitulo%202/Captura9.PNG" width=700> 
+ <img src="Capitulo%202/Captura9.PNG" width=600> 
  
  34) ¿Qué se entiende por cd?, ¿y por ca?
  
-  R= CD (corriente eléctrica directa) la corriente fluye en una sola dirección en los alambres 
+    R= CD (corriente eléctrica directa) la corriente fluye en una sola dirección en los alambres 
   
-  CA (corriente alterna) fluye en direcciones opuestas cambiando rápidamente la dirección muchas veces por segundo
+    CA (corriente alterna) fluye en direcciones opuestas cambiando rápidamente la dirección muchas veces por segundo
   
  36) ¿Cómo se carga una batería secundaria? Haga un bosquejo. ¿Se puede cargar una batería primaria?
 
-  <img src="Capitulo%202/Captura10.PNG" width=700> 
+  <img src="Capitulo%202/Captura10.PNG" width=600> 
   
  38) ¿Cuál es la vida de servicio aproximada de la celda D de la tabla 2-1 con un consumo de corriente de 10 mA, de 50 mA y de 100 mA? ¿Qué concluye de estos resultados?
 
-  <img src="Capitulo%202/Captura11.PNG" width=700> 
+  <img src="Capitulo%202/Captura11.PNG" width=600> 
   
   40) Se espera que la batería de la figura 2-15 dure 17 h con un consumo de corriente de 1.5 A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con un consumo de corriente de 0,8 A?
   
-  <img src="Capitulo%202/Captura12.PNG" width=700> 
+  <img src="Capitulo%202/Captura12.PNG" width=600> 
 
 42) El voltímetro digital de la figura 2-34 tiene la característica de auto polaridad. Para cada caso, determine su lectura.
 
-  <img src="Capitulo%202/Captura13.PNG" width=700> 
+  <img src="Capitulo%202/Captura13.PNG" width=600> 
 
 44) ¿Cuál es el error en la afirmación de que el voltaje a través de la lámpara de la figura 2-24 es 70,3 V?
 
-  <img src="Capitulo%202/Captura14.PNG" width=700> 
+  <img src="Capitulo%202/Captura14.PNG" width=600> 
   
   
 46. VIDEO
