@@ -253,7 +253,7 @@ Resolver los ejercicios al final de cada capitulo estudiado.
   10) Si se pudiera colocar una carga de 1 C en cada uno de dos cuerpos que están separados 25 cm de centro a centro, ¿cuál sería la fuerza entre ellas en newtons?, ¿y en  
   toneladas?
   
-  <img src="Capitulo%202/Captura3.PNG" width=400> 
+  <img src="Capitulo%202/Captura3.PNG" width=300> 
   
   12) ¿Cuántos electrones representa una carga de 1.63 uC?
 
@@ -273,7 +273,7 @@ Resolver los ejercicios al final de cada capitulo estudiado.
  
  20)¿Cuánta energía se requiere para mover 20 mC de carga a través de la lámpara de la figura 2-23
 
- <img src="Capitulo%202/Captura6.PNG" width=600> 
+ <img src="Capitulo%202/Captura6.PNG" width=400> 
  
  22) Si el voltaje entre dos puntos es de 100 V, ¿cuánta energía se requiere para mover un electrón entre los dos puntos?
 
@@ -285,7 +285,7 @@ Resolver los ejercicios al final de cada capitulo estudiado.
 
 26) Si la corriente I = 4 A en la figura 2-1, ¿cuántos coulomb pasan a través de la lámpara en 7 ms?
 
- <img src="Capitulo%202/Captura8.PNG" width=700> 
+ <img src="Capitulo%202/Captura8.PNG" width=400> 
  
  28) ¿Cuánto tiempo le toma a una carga de 100 uC pasar por un punto si la corriente es de 25 mA?
 
