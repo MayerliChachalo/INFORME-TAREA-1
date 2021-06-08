@@ -563,9 +563,10 @@ en esta descarga.
       Esto se da porque las descargas eléctricas naturales son mucho más fuertes que el aislamiento eléctrico del aire.
    
    7.	Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuándo es de atracción y cuándo de repulsión.
-
-      a.	Una carga de +1 µC y una carga de +7 µC, separadas 10 mm:
-  
+      
+      <img src="Ejercicios_Impares_Capitulo_2/7abcde.png" width=500>
+      
+      
 ### 4. VIDEO
 
   https://youtu.be/IThNJ0rlnw0
