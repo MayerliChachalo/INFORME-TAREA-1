@@ -376,7 +376,7 @@ en esta descarga.
 
       a.	Una carga de +1 µC y una carga de +7 µC, separadas 10 mm:
       
-         ![equation](https://latex.codecogs.com/gif.latex?F%3D%289*10%5E9%29%5Cfrac%7B%281%20%5Cmu%20C%29%287%20%5Cmu%20C%29%7D%7B0.01%5E2%7D%3D6.3*10%5E%7B14%7D%20N%20%5Cquad%20%28Se%20Repelen%29)
+         
 
   
 4. VIDEO
