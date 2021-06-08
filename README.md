@@ -568,7 +568,7 @@ en esta descarga.
   
 ### 4. VIDEO
 
-  https://youtu.be/TAqkSQ0HMPU
+  https://youtu.be/IThNJ0rlnw0
 
 ### 5. CONCLUSIONES
 - Conocer el sistema SI de medidas internacionales permite hacer conversiones entre varios tipode de unidades. Hacer uso de la notación de potencia de 10 expresa cantidades de manera sinmplificada; convinar el empleo de potencia de 10 y notación de ingeniería ayuda a representar unidades eléctricas como microamperes, kilovolios, miliwatts, entre otra. 
