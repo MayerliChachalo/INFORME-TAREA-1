@@ -339,132 +339,132 @@ Resolver los ejercicios al final de cada capitulo estudiado.
   
   5. EJERCICIOS IMPARES CAPÍTULO 2
   
-  1.	¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
-      
-      a.	1 metro cúbico de cobre
-      
-         En 1 cm3 existen 1023 por lo tanto en 1 m3 existen 1029
+     1.	¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
 
-      b.	Un alambre de cobre de 5m de longitud cuyo diámetro es 0.163
-         
-         Existen 10.4*1023 electrones libres
-         
-  3.	Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ellas se reduce a la mitad, ¿cómo se ve afectada la fuerza?
+         a.	1 metro cúbico de cobre
 
-      Se incrementa por un factor de 24.
-      
-  5.	
-        a) ¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y los electrones libres.)
+            En 1 cm3 existen 1023 por lo tanto en 1 m3 existen 1029
 
-         Un material es buen conductor siempre y cuando sus cargas se mueven con facilidad esto quiere decir que cuando haya un desequilibrio entre sus electrones y sus protones este va a estar cargado positiva o negativamente, además de que si un material tiene varios electrones libres (es decir, material con un electrón en su capa de valencia)
-      
-        b) Además de ser un buen conductor, mencione otras dos razones por las que el cobre es ampliamente usado.
+         b.	Un alambre de cobre de 5m de longitud cuyo diámetro es 0.163
 
-         Es más barato y es más fácil realizar cables con él.
-      
-        c) ¿Qué hace que un material sea buen aislante?
+            Existen 10.4*1023 electrones libres
 
-         Es aislante cuando la capa de valencia está llena, por tanto, no hay electrones libres.
-      
-        d) Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga en esta descarga.
+     3.	Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ellas se reduce a la mitad, ¿cómo se ve afectada la fuerza?
 
-         Esto se da porque las descargas eléctricas naturales son mucho más fuertes que el aislamiento eléctrico del aire.
-   
-   7.	Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuándo es de atracción y cuándo de repulsión.
-      
-         <img src="Ejercicios_Impares_Capitulo_2/7a.png" width=500>
-         
-         <img src="Ejercicios_Impares_Capitulo_2/7b.png" width=500>
-         
-         <img src="Ejercicios_Impares_Capitulo_2/7c.png" width=500>
-         
-         <img src="Ejercicios_Impares_Capitulo_2/7d.png" width=500>
-         
-         <img src="Ejercicios_Impares_Capitulo_2/7e.png" width=500>
-        
-   9.	La fuerza entre dos cargas, una positiva y una negativa, separadas 2 cm es de 180 N. Si Q1 = 4 µC, ¿cuánto vale Q2?, ¿la fuerza es de atracción o de repulsión?
+         Se incrementa por un factor de 24.
 
-         <img src="Ejercicios_Impares_Capitulo_2/9.png" width=500>
-         
-   11. La fuerza de repulsión entre dos cargas separadas 50 cm es de 0.02 N. Si Q2 = 5Q1, determine las cargas y su posible signo.
-         
-         <img src="Ejercicios_Impares_Capitulo_2/11.png" width=500>
-         
-   13. Determina la carga en 19*1013 electrones.
-         
-         <img src="Ejercicios_Impares_Capitulo_2/13.png" width=500>
-         
-   15. A una placa de metal se le han adicionado 14.6 * 1013 electrones y posteriormente se le agrega una carga de 1.3 µC. Si la carga final en la placa es de 5.6 µC, ¿cuál fue la carga inicial?
-         
-         <img src="Ejercicios_Impares_Capitulo_2/15.png" width=500>
-         
-   17. Si se requieren 360 joules de energía para transferir 15 C de carga a través de la lámpara de la figura 2-1, ¿cuál es el voltaje de la batería?
-         
-         <img src="Ejercicios_Imoares_Capitulo_2/17.png" width=500>
-         
-   19. Si se requiere de 1.2 kJ de energía para mover 500 mC de un punto a otro, ¿cuál es el voltaje entre los dos puntos?
-         
-         <img src="Ejercicios_Impares_Capitulo_2/19.png" width=500>
-         
-   21. ¿Cuánta energía adquiere una carga de 0,5 µC conforme se mueve a través de una diferencia de potencial de 8,5 kV?
-         
-         <img src="Ejercicios_Impares_Capitulo_2/21.png" width=500>
-         
-   23. Dado un voltaje de 12 V para la batería de la figura 2-1, ¿cuánta carga se mueve a través de la lámpara si se requieren 57 J de energía para moverla?
-         
-         <img src="Ejercicios_Impares_Capitulo_2/23.png" width=700>
-         
-   25. Si 250 µC pasan a través del amperímetro de la figura 2-32 en 5 ms, ¿cuál será la lectura del medidor?
-         
-         <img src="Ejercicios_Impares_Capitulo_2/25.png" width=500>
-         
-   27. ¿Cuánta carga pasa a través del circuito de la figura 2-25 en 20 ms?
-         
-         <img src="Ejercicios_Impares_Capitulo_2/27.png" width=700>
-         
-         <img src="Ejercicios_Impares_Capitulo_2/27_2.png" width=500>
-         
-   29. Si 93.6 * 1012 electrones pasan a través de una lámpara en 5 ms, ¿cuál es la corriente?
+     5.	
+           a) ¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y los electrones libres.)
 
-         <img src="Ejercicios_Impares_Capitulo_2/29.png" width=500>
-         
-   31. La carga que pasa a través de un alambre es q = (80t + 20) C. ¿Cuál es la corriente? Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
+            Un material es buen conductor siempre y cuando sus cargas se mueven con facilidad esto quiere decir que cuando haya un desequilibrio entre sus electrones y sus protones este va a estar cargado positiva o negativamente, además de que si un material tiene varios electrones libres (es decir, material con un electrón en su capa de valencia)
 
-         <img src="Ejercicios_Impares_Capitulo_2/31.png" width=500>
-         
-   33. Si se requieren 1 353.6 J para mover 47 * 1019 electrones a través de la lámpara de la figura 2-32 en 1.3 min, ¿cuánto valen E e I?
+           b) Además de ser un buen conductor, mencione otras dos razones por las que el cobre es ampliamente usado.
 
-         <img src="Ejercicios_Impares_Capitulo_2/33.png" width=500>
-         
-   35. Considere tres baterías conectadas como en la ﬁgura 2-33.
+            Es más barato y es más fácil realizar cables con él.
 
-         <img src="Ejercicios_Impares_Capitulo_2/35a.png" width=500>
-         
-         <img src="Ejercicios_Impares_Capitulo_2/35b.png" width=500>
-         
-   37. Una batería especificada en 1 400 mAh suministra 28 mA a una carga. ¿Cuánto tiempo se espera que dure?
+           c) ¿Qué hace que un material sea buen aislante?
 
-         <img src="Ejercicios_Impares_Capitulo_2/37.png" width=500>
-         
-   39. La batería de la figura 2-15 está especificada en 81 Ah a 5°C. ¿Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5 A a -15°C?
+            Es aislante cuando la capa de valencia está llena, por tanto, no hay electrones libres.
 
-         <img src="Ejercicios_Impares_Capitulo_2/39.png" width=500>
-         
-   41. En el trabajo de ingeniería en ocasiones se tienen que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA, ¿cuál es el tiempo estimado (en horas) que será capaz de usar?
+           d) Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga en esta descarga.
 
-         <img src="Ejercicios_Impares_Capitulo_2/41.png" width=500>
-         
-   43. La corriente en el circuito de la figura 2-35 es 9.17 mA. ¿Cuál amperímetro indica correctamente la corriente? (a) El medidor 1, (b) medidor 2, (c) ambos.
+            Esto se da porque las descargas eléctricas naturales son mucho más fuertes que el aislamiento eléctrico del aire.
 
-         <img src="Ejericios_Impares_Capitulo_2/43.png" width=500>
-         
-   45. ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36? Corríjalo
+      7.	Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuándo es de atracción y cuándo de repulsión.
 
-         <img src="Ejercicios_Impares_Capitulo_2/45.png" width=500>
-         
-   47. Los fusibles tienen una especiﬁcación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especiﬁcación de voltaje. ¿Por qué? Sugerencia: lea la sección de aislantes, sección 2-1.
+            <img src="Ejercicios_Impares_Capitulo_2/7a.png" width=500>
 
-      Los fusibles tienen especificación de corriente porque gracias a esto podríamos saber cuanta carga máxima soporten y así no permitir que se sobrecarguen porque si esto sucede se puede producir un chispazo o arco, que es lo que sucede cuando hay descargas eléctricas en una tormenta. 
+            <img src="Ejercicios_Impares_Capitulo_2/7b.png" width=500>
+
+            <img src="Ejercicios_Impares_Capitulo_2/7c.png" width=500>
+
+            <img src="Ejercicios_Impares_Capitulo_2/7d.png" width=500>
+
+            <img src="Ejercicios_Impares_Capitulo_2/7e.png" width=500>
+
+      9.	La fuerza entre dos cargas, una positiva y una negativa, separadas 2 cm es de 180 N. Si Q1 = 4 µC, ¿cuánto vale Q2?, ¿la fuerza es de atracción o de repulsión?
+
+            <img src="Ejercicios_Impares_Capitulo_2/9.png" width=500>
+
+      11. La fuerza de repulsión entre dos cargas separadas 50 cm es de 0.02 N. Si Q2 = 5Q1, determine las cargas y su posible signo.
+
+            <img src="Ejercicios_Impares_Capitulo_2/11.png" width=500>
+
+      13. Determina la carga en 19*1013 electrones.
+
+            <img src="Ejercicios_Impares_Capitulo_2/13.png" width=500>
+
+      15. A una placa de metal se le han adicionado 14.6 * 1013 electrones y posteriormente se le agrega una carga de 1.3 µC. Si la carga final en la placa es de 5.6 µC, ¿cuál fue la carga inicial?
+
+            <img src="Ejercicios_Impares_Capitulo_2/15.png" width=500>
+
+      17. Si se requieren 360 joules de energía para transferir 15 C de carga a través de la lámpara de la figura 2-1, ¿cuál es el voltaje de la batería?
+
+            <img src="Ejercicios_Impares_Capitulo_2/17.png" width=500>
+
+      19. Si se requiere de 1.2 kJ de energía para mover 500 mC de un punto a otro, ¿cuál es el voltaje entre los dos puntos?
+
+            <img src="Ejercicios_Impares_Capitulo_2/19.png" width=500>
+
+      21. ¿Cuánta energía adquiere una carga de 0,5 µC conforme se mueve a través de una diferencia de potencial de 8,5 kV?
+
+            <img src="Ejercicios_Impares_Capitulo_2/21.png" width=500>
+
+      23. Dado un voltaje de 12 V para la batería de la figura 2-1, ¿cuánta carga se mueve a través de la lámpara si se requieren 57 J de energía para moverla?
+
+            <img src="Ejercicios_Impares_Capitulo_2/23.png" width=700>
+
+      25. Si 250 µC pasan a través del amperímetro de la figura 2-32 en 5 ms, ¿cuál será la lectura del medidor?
+
+            <img src="Ejercicios_Impares_Capitulo_2/25.png" width=500>
+
+      27. ¿Cuánta carga pasa a través del circuito de la figura 2-25 en 20 ms?
+
+            <img src="Ejercicios_Impares_Capitulo_2/27.png" width=700>
+
+            <img src="Ejercicios_Impares_Capitulo_2/27_2.png" width=500>
+
+      29. Si 93.6 * 1012 electrones pasan a través de una lámpara en 5 ms, ¿cuál es la corriente?
+
+            <img src="Ejercicios_Impares_Capitulo_2/29.png" width=500>
+
+      31. La carga que pasa a través de un alambre es q = (80t + 20) C. ¿Cuál es la corriente? Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
+
+            <img src="Ejercicios_Impares_Capitulo_2/31.png" width=500>
+
+      33. Si se requieren 1 353.6 J para mover 47 * 1019 electrones a través de la lámpara de la figura 2-32 en 1.3 min, ¿cuánto valen E e I?
+
+            <img src="Ejercicios_Impares_Capitulo_2/33.png" width=500>
+
+      35. Considere tres baterías conectadas como en la ﬁgura 2-33.
+
+            <img src="Ejercicios_Impares_Capitulo_2/35a.png" width=500>
+
+            <img src="Ejercicios_Impares_Capitulo_2/35b.png" width=500>
+
+      37. Una batería especificada en 1 400 mAh suministra 28 mA a una carga. ¿Cuánto tiempo se espera que dure?
+
+            <img src="Ejercicios_Impares_Capitulo_2/37.png" width=500>
+
+      39. La batería de la figura 2-15 está especificada en 81 Ah a 5°C. ¿Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5 A a -15°C?
+
+            <img src="Ejercicios_Impares_Capitulo_2/39.png" width=500>
+
+      41. En el trabajo de ingeniería en ocasiones se tienen que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA, ¿cuál es el tiempo estimado (en horas) que será capaz de usar?
+
+            <img src="Ejercicios_Impares_Capitulo_2/41.png" width=500>
+
+      43. La corriente en el circuito de la figura 2-35 es 9.17 mA. ¿Cuál amperímetro indica correctamente la corriente? (a) El medidor 1, (b) medidor 2, (c) ambos.
+
+            <img src="Ejercicios_Impares_Capitulo_2/43.png" width=500>
+
+      45. ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36? Corríjalo
+
+            <img src="Ejercicios_Impares_Capitulo_2/45.png" width=500>
+
+      47. Los fusibles tienen una especiﬁcación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especiﬁcación de voltaje. ¿Por qué? Sugerencia: lea la sección de aislantes, sección 2-1.
+
+         Los fusibles tienen especificación de corriente porque gracias a esto podríamos saber cuanta carga máxima soporten y así no permitir que se sobrecarguen porque si esto sucede se puede producir un chispazo o arco, que es lo que sucede cuando hay descargas eléctricas en una tormenta. 
          
 6. VIDEO
 
