@@ -19,10 +19,15 @@ Reconocer los diferentes materiales y sus características que hacen que estos s
 
 Resolver los ejercicios al final de cada capitulo estudiado.
 
-2. MARCO TEÓRICO
+### 2. MARCO TEÓRICO
 
+ <div align="center">
 
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+![INTRODUCCION](https://user-images.githubusercontent.com/85126275/121121179-b6e71300-c7e4-11eb-923e-22ce117306b2.png)
+  
+</div>
+
+### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
    EJERCICIOS IMPARES CAPÍTULO 1
    
  1.- Realice las siguientes conversiones:
@@ -130,12 +135,9 @@ Resolver los ejercicios al final de cada capitulo estudiado.
    
        Un galón equivale a 3.785 litros. 
        Una milla en kilómetros es 1.609. 
-       
-   <div align="center">
    
    <img src="Ejer_impares_cap1/7.jpg" width=400 >
   
-   </div>
    
    8. El radio ecuatorial de la Tierra es de 3963 millas ¿Cuál es la circunferencia de la Tierra en kilómetros en el ecuador?
  
@@ -563,40 +565,36 @@ en esta descarga.
    7.	Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuándo es de atracción y cuándo de repulsión.
 
       a.	Una carga de +1 µC y una carga de +7 µC, separadas 10 mm:
-      
-         
-
   
-4. VIDEO
+### 4. VIDEO
 
 
-5. CONCLUSIONES
+### 5. CONCLUSIONES
 - Conocer el sistema SI de medidas internacionales permite hacer conversiones entre varios tipode de unidades. Hacer uso de la notación de potencia de 10 expresa cantidades de manera sinmplificada; convinar el empleo de potencia de 10 y notación de ingeniería ayuda a representar unidades eléctricas como microamperes, kilovolios, miliwatts, entre otra. 
 
 - Podemos decir que la ley de Ohm es una ley básica de los circuitos eléctricos donde nos enseña a establecer la diferencia de potencial que aplicamos, la intensidad de corriente, entre otras dándonos a conocer fórmulas que nos son de gran ayuda para calcular valores no encontrados. 
 
-6. BIBLIOGRAFÍA
+### 6. BIBLIOGRAFÍA
  
- 
-Es.scribd.com. 2021. [online] Available at: <https://es.scribd.com/doc/87133776/Caracteristicas-Del-Sistema-Internacional-y-El-Sistema-Ingles> [Accessed 1 June 2021]
+-Es.scribd.com. 2021. [online] Available at: <https://es.scribd.com/doc/87133776/Caracteristicas-Del-Sistema-Internacional-y-El-Sistema-Ingles> [Accessed 1 June 2021]
  2021. [online] 
  
- Available at: <https://www.colegiostmf.cl/wp-content/uploads/2020/05/1%C2%B0-Medio-Matem%C3%A1tica-Guia-6-1.pdf> [Accessed 1 June 2021].
+ -Available at: <https://www.colegiostmf.cl/wp-content/uploads/2020/05/1%C2%B0-Medio-Matem%C3%A1tica-Guia-6-1.pdf> [Accessed 1 June 2021].
  Ingemecanica.com. 2021. Sistema Internacional de Unidades de Medida (S.I.). [online] Available at: <https://ingemecanica.com/tutoriales/unidadesdemedida.html> [Accessed 1 June   2021].
  
  
- Educapanama.edu.pa. 2021. Potencias de 10 y Notación Científica | Educa Panamá | Mi Portal Educativo. [online] Available at: <http://www.educapanama.edu.pa/?q=articulos-  educativos/potencias-de-10-y-notacion-cientifica#:~:text=Una%20potencia%20de%20base%2010,1%20seguido%20de%20n%20ceros.&text=La%20base%20est> [Accessed 1 June 2021].
+-Educapanama.edu.pa. 2021. Potencias de 10 y Notación Científica | Educa Panamá | Mi Portal Educativo. [online] Available at: <http://www.educapanama.edu.pa/?q=articulos-  educativos/potencias-de-10-y-notacion-cientifica#:~:text=Una%20potencia%20de%20base%2010,1%20seguido%20de%20n%20ceros.&text=La%20base%20est> [Accessed 1 June 2021].
  
  
- Unsa.edu.ar. 2021. [online] Available at: <http://www.unsa.edu.ar/srmrf/web/_Visitante/articulacion/MePreparo2011/3_NotacionCientifica.pdf> [Accessed 1 June 2021].
+ -Unsa.edu.ar. 2021. [online] Available at: <http://www.unsa.edu.ar/srmrf/web/_Visitante/articulacion/MePreparo2011/3_NotacionCientifica.pdf> [Accessed 1 June 2021].
  Yann Picand, D., 2021. Conversión de unidades : definición de Conversión de unidades y sinónimos de Conversión de unidades (español). [online] Diccionario.sensagent.com.        
- Available at: <http://diccionario.sensagent.com/Conversi%C3%B3n%20de%20unidades/es-es/> [Accessed 1 June 2021].
+ -Available at: <http://diccionario.sensagent.com/Conversi%C3%B3n%20de%20unidades/es-es/> [Accessed 1 June 2021].
  
  
- 2021. [online] Available at: <https://es.khanacademy.org/science/electrical-engineering/int> [Accessed 1 June 2021].
+ -2021. [online] Available at: <https://es.khanacademy.org/science/electrical-engineering/int> [Accessed 1 June 2021].
 
 
- Tirado, A. and perfil, V., 2021. conversión de unidades. [online] Aprendefisika.blogspot.com. Available at: <http://aprendefisika.blogspot.com/p/conversion-de-unidades.html>  [Accessed 1 June 2021].
+ -Tirado, A. and perfil, V., 2021. conversión de unidades. [online] Aprendefisika.blogspot.com. Available at: <http://aprendefisika.blogspot.com/p/conversion-de-unidades.html>  [Accessed 1 June 2021].
 
 
 
