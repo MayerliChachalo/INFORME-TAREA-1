@@ -337,8 +337,49 @@ Resolver los ejercicios al final de cada capitulo estudiado.
 
   <img src="Capitulo%202/Captura14.PNG" width=700> 
   
+  EJERCICIOS IMPARES CAPÍTULO 2
   
-46. VIDEO
+  1.	¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
+      
+      a.	1 metro cúbico de cobre
+      
+         En 1 cm3 existen 1023 por lo tanto en 1 m3 existen 1029
+
+      b.	Un alambre de cobre de 5m de longitud cuyo diámetro es 0.163
+         
+         Existen 10.4*1023 electrones libres
+         
+  3.	Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ellas se reduce a la mitad, ¿cómo se ve afectada la fuerza?
+
+      Se incrementa por un factor de 24.
+      
+  5.	a) ¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y los electrones libres.)
+
+         Un material es buen conductor siempre y cuando sus cargas se mueven con facilidad esto quiere decir que cuando haya un desequilibrio entre sus electrones y sus protones este va a estar cargado positiva o negativamente, además de que si un material tiene varios electrones libres (es decir, material con un electrón en su capa de valencia)
+      
+      b) Además de ser un buen conductor, mencione otras dos razones por las que
+el cobre es ampliamente usado.
+
+      Es más barato y es más fácil realizar cables con él.
+      
+   c) ¿Qué hace que un material sea buen aislante?
+
+      Es aislante cuando la capa de valencia está llena, por tanto, no hay electrones libres.
+      
+   d) Normalmente el aire es un aislante; sin embargo, durante las descargas de
+rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga
+en esta descarga.
+
+      Esto se da porque las descargas eléctricas naturales son mucho más fuertes que el aislamiento eléctrico del aire.
+   
+   7.	Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuándo es de atracción y cuándo de repulsión.
+
+      a.	Una carga de +1 µC y una carga de +7 µC, separadas 10 mm:
+      
+         ![equation](https://latex.codecogs.com/gif.latex?F%3D%289*10%5E9%29%5Cfrac%7B%281%20%5Cmu%20C%29%287%20%5Cmu%20C%29%7D%7B0.01%5E2%7D%3D6.3*10%5E%7B14%7D%20N%20%5Cquad%20%28Se%20Repelen%29)
+
+  
+4. VIDEO
 
 
 5. CONCLUSIONES
