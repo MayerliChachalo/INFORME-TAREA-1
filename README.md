@@ -353,24 +353,22 @@ Resolver los ejercicios al final de cada capitulo estudiado.
 
       Se incrementa por un factor de 24.
       
-  5.	a) ¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y los electrones libres.)
+  5.	
+        a) ¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y los electrones libres.)
 
          Un material es buen conductor siempre y cuando sus cargas se mueven con facilidad esto quiere decir que cuando haya un desequilibrio entre sus electrones y sus protones este va a estar cargado positiva o negativamente, además de que si un material tiene varios electrones libres (es decir, material con un electrón en su capa de valencia)
       
-      b) Además de ser un buen conductor, mencione otras dos razones por las que
-el cobre es ampliamente usado.
+        b) Además de ser un buen conductor, mencione otras dos razones por las que el cobre es ampliamente usado.
 
-      Es más barato y es más fácil realizar cables con él.
+         Es más barato y es más fácil realizar cables con él.
       
-   c) ¿Qué hace que un material sea buen aislante?
+        c) ¿Qué hace que un material sea buen aislante?
 
-      Es aislante cuando la capa de valencia está llena, por tanto, no hay electrones libres.
+         Es aislante cuando la capa de valencia está llena, por tanto, no hay electrones libres.
       
-   d) Normalmente el aire es un aislante; sin embargo, durante las descargas de
-rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga
-en esta descarga.
+        d) Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga en esta descarga.
 
-      Esto se da porque las descargas eléctricas naturales son mucho más fuertes que el aislamiento eléctrico del aire.
+         Esto se da porque las descargas eléctricas naturales son mucho más fuertes que el aislamiento eléctrico del aire.
    
    7.	Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuándo es de atracción y cuándo de repulsión.
       
