@@ -376,7 +376,7 @@ en esta descarga.
 
       a.	Una carga de +1 µC y una carga de +7 µC, separadas 10 mm:
       
-         
+         <img src="">
 
   
 4. VIDEO
